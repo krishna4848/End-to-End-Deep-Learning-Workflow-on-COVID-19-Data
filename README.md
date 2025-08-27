@@ -1,3 +1,3 @@
-# COVID19_Deep_Learning
+# End-to-End Deep Learning Workflow on COVID-19 Data
 
 This project focuses on implementing and comparing various deep learning models on a COVID-19 dataset to uncover patterns and improve predictive performance. The dataset includes COVID-19 case statistics and related features, which were preprocessed and analyzed before applying models. Multiple architectures, such as Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs), were developed and evaluated to identify which approach yields the best accuracy and generalization. The project demonstrates the end-to-end workflow of data preprocessing, model building, training, evaluation, and result interpretation, highlighting how deep learning can support insights in the context of global health challenges.
